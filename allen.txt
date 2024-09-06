@@ -1,4 +1,4 @@
 Hello i'm Allen 
-this is Group 2
+Group 2
 This is a sample file.
-Adding a new line to the file.
+Entering a new line in the file.
